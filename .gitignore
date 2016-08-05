@@ -1,0 +1,15 @@
+build/
+testes/
+output/
+.~lock.*
+.o
+tools/compileTemp.log
+
+#############################
+# Arquivos Gerados pelo OSX #
+#############################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
